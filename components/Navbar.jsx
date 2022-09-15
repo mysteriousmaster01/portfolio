@@ -56,7 +56,7 @@ const Navbar = () => {
         className="absolute bg-[#F57B2C] h-1 w-full"
       />
       <div className="flex justify-between items-center w-full h-full m-auto px-4 2xl:px-10">
-        <div className="animate-pulse">
+        <div className="">
         <Image
               src="/../public/assets/Logo.png"
               alt="/"
