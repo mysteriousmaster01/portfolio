@@ -20,7 +20,7 @@ const About = () => {
         <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-110 ease-in duration-300'>
           <Image
             className='rounded-xl'
-            src="/../public/assets/Profile.png"
+            src="https://images.unsplash.com/photo-1663264839343-c624e41515dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
             alt="/"
             width="500"
             height="500"
