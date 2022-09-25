@@ -58,7 +58,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center w-full h-full m-auto px-4 2xl:px-10">
         <div className="">
         <Image
-              src="/../public/assets/Profile.png"
+              src="/assets/Logo.png"
               alt="/"
               width="55"
               height="55"
