@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import logisterImg from "../public/assets/projects/002.png";
+import logisterImg from "../public/assets/projects/logister-01.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 
