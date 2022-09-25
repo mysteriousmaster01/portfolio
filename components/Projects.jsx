@@ -1,9 +1,9 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import propertyImg from "../public/assets/projects/001.png";
+import propertyImg from "../public/assets/projects/portfolio-01.png";
 import Projectitem from "./Projectitem";
-import logisterImg from '../public/assets/projects/002.png'
+import logisterImg from '../public/assets/projects/logister-01.png'
 const Projects = () => {
   return (
     <div id='projects' className='w-full'>
