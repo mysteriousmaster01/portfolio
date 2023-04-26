@@ -10,9 +10,6 @@ const Main = () => {
     <div id="main" className="w-full h-screen text-center">
       <div className="max-w-[1240px] w-full h-full m-auto p-2 flex justify-center items-center">
         <div className="">
-//           <p className="uppercase text-sm tracking-widest text-gray-600">
-//             TO CHALIYE SHURU KARTE HAI BINA KISI BAKCHODI KE
-//           </p>
           <h1 className="py-4 text-gray-700">
             Hey There, It's{" "}
             <span className="text-[#FF8637]">Jay Prajapati</span>
