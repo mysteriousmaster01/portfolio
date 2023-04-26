@@ -86,13 +86,13 @@ const Contact = () => {
                 />
               </div>
               <div>
-                <p className="text-2xl">Front End Developer</p>
+                <p className="text-2xl">Full Stack Developer</p>
                 <p className="py-4">
                   I'm available for freelance and full time positions
                 </p>
               </div>
               <div className="">
-                <p className="oppercase pt-8">Contact With Me Brah !</p>
+                <p className="oppercase pt-8">Contact Me</p>
                 <div className="flex items-center justify-between py-4">
                   <div className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-200">
                     <a
