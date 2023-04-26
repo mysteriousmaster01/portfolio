@@ -23,7 +23,7 @@ const Main = () => {
 
           {/* <h1>Developer Artist Designer</h1> */}
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            I am a 4th year Bachelors of Engineering Student in Information
+            I am a final year Bachelors of Engineering Student in Information
             Technology at Sardar Vallabhbhai Patel Institute of Technology,
             Vasad. I’m seeking an opportunity to discover the professional world
             that I want to integrate into after my studies.
